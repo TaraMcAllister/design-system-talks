@@ -8,6 +8,7 @@ Know a talk that isn't listed below? Feel free to create a new pull request, or 
 
 | Talk                                                                                                                          | Speaker(s)                                                      |
 | :---------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------- |
+| [Systemizing Design](https://www.youtube.com/watch?v=Yli6_t3zgYM)                                          | Nate Baldwin & Alan Wilson                                         |
 | [Design Systems: Zero to One](https://www.youtube.com/watch?v=Eq0-Sz5S9iI)                                          | Paul Farino (Pivotal)                                          |
 | [Introducing Design Systems Into Chaos](https://www.youtube.com/watch?v=FZSi1bK-BRM)                                          | Diana Mounter (GitHub)                                          |
 | [Thinking in Symbols for Universal Design](https://www.youtube.com/watch?v=z5XxgxBz3Fo)                                       | Benjamin Wilkins (Airbnb)                                       |
